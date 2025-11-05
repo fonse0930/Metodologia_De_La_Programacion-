@@ -42,3 +42,37 @@ print(bicycles)
 print("MEtodo de la lista patra agregar elementos: list_name.append(element)")
 bicycles.append("ducati")
 print(bicycles)
+"""
+# Lista A-105
+    Agrega ele,mentois al final de una lista 
+     - append(): Agrega un elemento al final de la lista
+
+
+"""
+print("\n--- Agregar elementos a lista metodo append()---")
+motorcycles = ['honda', 'yamaha', 'suzuki']
+print(motorcycles) # SSalida: ['honda', 'yamaha', 'suzuki']
+motorcycles.append('ducati')
+print(motorcycles) # Salida: ['honda', 'yamaha', suzuki', ducati']
+
+
+
+"""
+    
+    Agregar elementos en una pocison espesifica 
+    - insert(): Inserta un elemengto en una pocision espesifica 
+
+"""
+
+print("\n--- Agregar elementos a lista metodo append()---")
+motorcycles = ['honda', 'yamaha', 'suzuki']
+print(motorcycles) # SSalida: ['honda', 'yamaha', 'suzuki']
+motorcycles.insert(1, 'ducati'),
+print(motorcycles) # Salida: ['honda', 'ducati', 'yamaha', suzuki']
+
+"""
+-pop() Elimina y devuelve el ultimo elemento de la lista 
+
+"""      
+   
+                     
