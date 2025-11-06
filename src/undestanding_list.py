@@ -73,6 +73,42 @@ print(motorcycles) # Salida: ['honda', 'ducati', 'yamaha', suzuki']
 """
 -pop() Elimina y devuelve el ultimo elemento de la lista 
 
-"""      
-   
-                     
+"""
+print("\n--- Eliminar elementos de una lista metodo pop()---")
+motorcycles = ['honda', 'yamaha', 'suzuki']                             
+print(motorcycles) # SSalida: ['honda', 'yamaha', 'suzuki']
+popped_motorcycle = motorcycles.pop()
+print(motorcycles) # Salida: ['honda', 'yamaha']
+print(popped_motorcycle) # Salida: suzuki   
+print("\n--- Eliminar elementos de una lista metodo remove()---")
+
+
+
+
+
+"""
+Ejemplo;
+"""     
+
+
+
+ 
+students = ["alejandro", "luis", "max", "santiago", "gabriel"]
+print(students)
+desired_student = input("¿que estudiante quieres retirar de la lista?")
+students.remove(desired_student.strip().lower())
+print(students)
+print("Tu has eliminado a " + desired_student.title() + " de la lista de estudiantes.")
+students.reverse()
+print(students)
+
+print(len(students))
+
+print(sorted(students))
+print(students)
+
+cars = ["kia", "ford", "chevrolet", "audi", "bmw"]
+print(cars)
+print(sorted(cars))
+sorted_list = sorted(cars)
+print("lista original:", cars)
