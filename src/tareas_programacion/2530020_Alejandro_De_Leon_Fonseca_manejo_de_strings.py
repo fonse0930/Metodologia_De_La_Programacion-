@@ -1,13 +1,5 @@
-# ALEJANDRO DE LEON FONSECA 2530020
-# MANEJO DE STRINGS
-
-"""
-
-
-"""
-
-
-
+# ALEJANDRO DE LEON FONSECA                                      #2530020
+                                # MANEJO DE STRINGS
 
 
 
