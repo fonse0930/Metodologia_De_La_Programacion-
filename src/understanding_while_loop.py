@@ -24,7 +24,9 @@ while True:
 
         if number >= 25 and number <= 50: 
             print("Estas en el rango, lo isite bien")
+            break
         else:
             print("Estas fuera del rango, intentalo otra vez")
-    except:
+    except:00
         print("Introdusiste una variable no valida")
+
