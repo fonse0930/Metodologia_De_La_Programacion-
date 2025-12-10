@@ -1,6 +1,4 @@
-# --------------------------------------------------------------------------------
-# PORTADA
-# --------------------------------------------------------------------------------
+
 # UNIVERSIDAD POLITÉCNICA DE VICTORIA (UPV)
 # TERCERA UNIDAD: METODOLOGÍA DE LA PROGRAMACIÓN
 # M.C. CARLOS ANTONIO TOVAR GARCIA
